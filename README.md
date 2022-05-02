@@ -1,7 +1,4 @@
 ### Hi there 👋, Joseph here!
-#### Please, turn off the lights! 
-![Please don't forget to turn off the lights! ](https://i.pinimg.com/originals/9c/08/1e/9c081e6e48e50f9d6d89db51a0655d20.gif)
-
 ---
 ###### Designer&Coder
 --- 
