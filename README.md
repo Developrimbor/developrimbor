@@ -6,7 +6,8 @@
 
 ---
 
-  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png' alt='aftereffects' height='40'>](https://unity.com/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png' alt='adobephotoshop' height='40'>](https://www.adobe.com/tr/products/photoshop.html)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png' alt='adobepremierepro' height='40'>](https://www.adobe.com/tr/products/premiere.html)  [<img src='https://ih1.redbubble.net/image.786468378.5783/pp,840x830-pad,1000x1000,f8f8f8.jpg' alt='unity' height='40'>](https://unity.com/)
+  [<img src='https://cdn-icons-png.flaticon.com/512/688/688170.png' alt='aftereffects' height='40'>](https://www.adobe.com/tr/products/aftereffects.html)  [<img src='https://cdn.freebiesupply.com/logos/large/2x/adobe-photoshop-cs6-logo-black-and-white.png' alt='adobephotoshop' height='40'>](https://www.adobe.com/tr/products/photoshop.html)  [<img src='https://cdn.freebiesupply.com/logos/large/2x/premiere-cc-logo-black-and-white.png' alt='adobepremierepro' height='40'>](https://www.adobe.com/tr/products/premiere.html)  [<img src='https://ih1.redbubble.net/image.786468378.5783/pp,840x830-pad,1000x1000,f8f8f8.jpg' alt='unity' height='40'>](https://unity.com/)  [<img src='https://yt3.ggpht.com/6hLbEq5VTd1_44WZjB4LzDIgLNXoilzFoi-4UqniFC0aV25T366LdCw6NMpb4SFhISlTO3lewQ=s900-c-k-c0x00ffffff-no-rj' alt='blender' height='40'>](https://www.blender.org//)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developrimbor)](https://github.com/anuraghazra/github-readme-stats)
 
